@@ -67,9 +67,9 @@ To view this portfolio locally:
 ---
 
 ## 📞 Contact
-- **Email:** [anmolkrjee1@gmail.com](mailto:babluks2244@gmail.com)
-- **LinkedIn:** [Anmol Kumar](https://www.linkedin.com/in/bablu-kumar-sharma/)
-- **GitHub:** [@anmolkrjee](https://github.com/bksharma1729)
+- **Email:** [babluks2244@gmail.com](mailto:babluks2244@gmail.com)
+- **LinkedIn:** [Bablu Kumar Sharma](https://www.linkedin.com/in/bablu-kumar-sharma/)
+- **GitHub:** [@bksharma1729](https://github.com/bksharma1729)
 
 ---
 <p float="left">
